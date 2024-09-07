@@ -8,7 +8,7 @@ from aiogram import Bot, Dispatcher, executor, types #Требует устан�
 from aiogram.types import InlineQuery, \
     InputTextMessageContent, InlineQueryResultArticle, \
     InlineKeyboardMarkup, InlineKeyboardButton
-API_TOKEN = '5119758921:AAER4wLBOY6bbEChecbjGyTzqcP4vYMQ_WA'
+API_TOKEN = 'ЯЛохСлучайноЕгоТутЗабыл)))'
 
 #переменные для удобной работы с ботом
 logging.basicConfig(level=logging.INFO)
